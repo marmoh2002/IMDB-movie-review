@@ -1,9 +1,12 @@
-# IMDB-movie-review
+# Custom DistilBERT Model for IMDB Movie Reviews
+
+<p align="center">
+<img src="readme_imgs/IMDb_BrandBanner_1920x425.jpg" width="1920" height="250">
+</p>
 
 [Dataset Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
 [Download Model Here](https://drive.google.com/file/d/1OYmK3vtIiUbh_hZD_hKLfRDq8PDm79xt/view?usp=sharing)
 
-# Custom DistilBERT Model for Sentiment Analysis
 
 This project uses a custom PyTorch model based on the DistilBERT architecture for sentiment analysis on the IMDB movie reviews dataset.
 
@@ -71,6 +74,12 @@ The project requires the following dependencies:
 - Flask (for deployment)
 
 The exact versions of these dependencies are specified in the `requirements.txt` file, which is saved alongside the model.
+
+## Example Usage
+<p align="center">
+<img src="readme_imgs/Screenshot 2024-10-28 195054.png" alt="PSO minimizing Easom benchmark function" width="720" height="400">
+</p>
+
 
 ## License
 
